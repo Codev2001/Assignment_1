@@ -2,6 +2,7 @@
   "homepage": "https://codev2001.github.io/Assignment_1",
   "name": "e-commerce",
   "version": "0.1.0",
+  "proxy": "http://localhost:3000",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.4",
